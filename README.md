@@ -3,6 +3,10 @@
 <p>Dependencies</p>
 <p>1. Node 23.5.0</p>
 <p>2. Npm 11.1.</p>
+<p>3. axum</p>
+<p>4. serde</p>
+<p>5. sqlx 0.8.6</p>
+<p>6. refer to Cargo.toml</p>
 
 <p>Requirements: </p>
 <p>1. PostgreSql Management</p>
